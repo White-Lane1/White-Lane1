@@ -1,8 +1,8 @@
 ##👋 Hi, I'm de Souza Frank  
 
-🎓 Information Technology Student | Ghana Communication Technology University  
-💻 Application Developer | Passionate About Consistency  
-🚀I am an aspiring software developer studying Information Technology at Ghana Communication Technology University. My focus is on building applications that help me stay consistent, improve productivity, and solve real-world problems.  
+🎓 Information Technology Student | Ghana Communication Technology University<br/> 
+💻 Application Developer | Passionate About Consistency<br/>  
+🚀I am an aspiring software developer studying Information Technology at Ghana Communication Technology University. My focus is on building applications that help me stay consistent, improve productivity, and solve real-world problems.<br/>  
 📫Email: [desouzafrank63@gmail.com]  
 
 
